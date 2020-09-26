@@ -1,4 +1,4 @@
-Rake.application.remove_task('react_on_rails:assets:compile_environment')
+# Rake.application.remove_task('react_on_rails:assets:compile_environment')
 
 task 'react_on_rails:assets:compile_environment' do
   path = File.join(Amministratore::Engine.root, 'client')
