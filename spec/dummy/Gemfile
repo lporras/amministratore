@@ -8,6 +8,5 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
-gem "mini_racer", "0.3.1"
 gem "webpacker", "~> 5"
 gem "react_on_rails", "~> 12"

@@ -68,7 +68,6 @@ GEM
       activesupport (>= 4.2.0)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
-    libv8 (8.4.255.0)
     loofah (2.7.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -80,8 +79,6 @@ GEM
     mimemagic (0.3.5)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-    mini_racer (0.3.1)
-      libv8 (~> 8.4.255)
     minitest (5.14.2)
     nio4r (2.5.4)
     nokogiri (1.10.10)
@@ -153,7 +150,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  mini_racer (= 0.3.1)
   react_on_rails (~> 12)
   webpacker (~> 5)
 
