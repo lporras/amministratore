@@ -1,3 +1,4 @@
+require "react_on_rails"
 require "amministratore/engine"
 
 module Amministratore

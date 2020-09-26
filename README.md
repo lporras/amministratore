@@ -8,6 +8,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
+gem 'react_on_rails', '~> 6'
 gem 'amministratore'
 ```
 

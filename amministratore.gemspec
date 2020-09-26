@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Amministratore::VERSION
   spec.authors     = ["Luis Porras"]
   spec.email       = ["lporras16@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Amministratore."
-  spec.description = "TODO: Description of Amministratore."
+  spec.homepage    = "https://github.com/lporras/amministratore"
+  spec.summary     = "Amministratore is a Ruby on Rails framework for creating elegant backends for website administration."
+  spec.description = "Amministratore is a Ruby on Rails framework for creating elegant backends for website administration."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -26,6 +26,7 @@ Gem::Specification.new do |spec|
   spec.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   spec.add_dependency "rails", "~> 6.0.3", ">= 6.0.3.3"
+  spec.add_dependency "react_on_rails", "~> 6"
 
   spec.add_development_dependency "sqlite3"
 end
