@@ -1,5 +1,5 @@
 # Amministratore
-Short description and motivation.
+Amministratore is a Ruby on Rails framework for creating elegant backends for website administration.
 
 ## Usage
 How to use my plugin.
