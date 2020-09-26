@@ -6,8 +6,10 @@
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-on-rails": "^12.0.3"
+    "react-on-rails": "12.0.3"
   },
+  "author": "Luis Porras",
+  "license": "MIT",
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
   }

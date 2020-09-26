@@ -1,5 +1,4 @@
-source 'https://rubygems.org'
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+eval_gemfile File.expand_path("../../Gemfile", __dir__)
 
 # Declare any dependencies that are still in development here instead of in
 # your gemspec. These might include edge Rails or gems from your path or
@@ -10,3 +9,5 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 # gem 'byebug', group: [:development, :test]
 gem "webpacker", "~> 5"
 gem "react_on_rails", "~> 12"
+gem 'mini_racer', platforms: :ruby
+
