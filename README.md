@@ -1,20 +1,21 @@
 # Amministratore
 Amministratore is a Ruby on Rails framework for creating elegant backends for website administration.
 
+**Note:** It is currently on development, we don't have published on RubyGems yet.
+
 ## Usage
-How to use my plugin.
+To be defined.
 
 ## Installation
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'react_on_rails', '~> 12'
 gem 'amministratore'
 ```
 
 And then execute:
 ```bash
-$ bundle
+$ bundle install
 ```
 
 Or install it yourself as:
@@ -22,8 +23,13 @@ Or install it yourself as:
 $ gem install amministratore
 ```
 
-## Contributing
-Contribution directions go here.
+## Want to contribute?
+
+If you want to contribute through code or documentation, the [Contributing
+guide is the best place to start][contributing]. If you have questions, feel free
+to ask.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+[contributing]: https://github.com/lporras/amministratore/blob/master/CONTRIBUTING.md
