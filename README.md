@@ -29,6 +29,10 @@ If you want to contribute through code or documentation, the [Contributing
 guide is the best place to start][contributing]. If you have questions, feel free
 to ask.
 
+## Hacktoberfest 2020
+
+Amministratore's team is participating at Hacktoberfest 2020, if you are participating too then you can talk with us in our [Discord Channel](https://discord.gg/tFQDKX) during the month of October
+
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
